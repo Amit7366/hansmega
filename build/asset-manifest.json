@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68d6445d.css",
+    "main.js": "/static/js/main.e9325464.js",
+    "static/js/787.51a56bad.chunk.js": "/static/js/787.51a56bad.chunk.js",
+    "static/media/ringtone.mp3": "/static/media/ringtone.e8c3a18e37893caeba29.mp3",
+    "index.html": "/index.html",
+    "main.68d6445d.css.map": "/static/css/main.68d6445d.css.map",
+    "main.e9325464.js.map": "/static/js/main.e9325464.js.map",
+    "787.51a56bad.chunk.js.map": "/static/js/787.51a56bad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d6445d.css",
+    "static/js/main.e9325464.js"
+  ]
+}
